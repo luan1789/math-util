@@ -8,4 +8,4 @@ regarding to common math methods e,g,getFactotial()~n!
 * ...
 ## Connect me via
 [FB] (https://www.facebook.com/luan.gmaggmg/)
-####Copyright ©2020 by luan1789
+#### Copyright ©2020 by luan1789
