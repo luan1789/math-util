@@ -24,7 +24,7 @@ public class MathUtilityTest {
         assertEquals(1,getPactorial(1));
     }
     
-    @Test(expected = SQLException.class) // kiem tra ngoai le
+    @Test(expected = IllegalArgumentException.class) // kiem tra ngoai le
     // neu nem ve IllegalArgumentException trong tinh huong -5 giai thua
     //ngoai le khong la mot gia tri de lay ra sa sanh
     public void getFactorial_ThrowException_IfValidArgument(){
