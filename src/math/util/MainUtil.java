@@ -31,4 +31,13 @@ public class MainUtil {
         //in thu Pi
         System.out.println("PI: "+PI);
     }
+    
+    // muon ket luan ham on thi ta phai nhin bang mat ket qua cua ham va so sanh voi 
+    //ki vong,phai lam tung truong hop
+    //cach nay on nhung mat suc>>>>dung mau sac XANH DO de ket luan
+    //neu ta thay XANH >>> moi tinh huong on
+    //neu ta thay DO thi ham sai
+    //ta sai them FRAMEWORK, unit test ten chung
+    //JUNIT,TESTING,NUNIT,...la nhung frameowok de giup test ham
+    //Tong so ta tich hop vao mot so quy trinh la phan mem lon hon
 }
