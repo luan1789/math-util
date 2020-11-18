@@ -25,6 +25,9 @@ public class MainUtil {
         //expected: 1 if tinh 0!
         System.out.println("S1: "+getPactorial(1));
         
+        System.out.println("Good bye and good luck to you in the FINAL EXAM"
+                + " Hope that you all will get the GREEN icon");
+        
         //expected: IllegalArugmentException if tinh -5
         System.out.println("S1: "+getPactorial(-5));
         
